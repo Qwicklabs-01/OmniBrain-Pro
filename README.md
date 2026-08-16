@@ -2,7 +2,7 @@
 
 A professional God Prompt generator and Omni-Disciplinary Master AI. It acts as a Multi-Discipline Creator, Engineer, Data Scientist, and Strategist, providing high-quality, professional-grade outputs instantly.
 
-Powered by the lightning-fast `phi3` engine for maximum speed and intelligence.
+Powered by the lightning-fast `phi3` engine for maximum speed and intelligence. Includes integrated skills documented in [`brain.md`](./brain.md) and the comprehensive God Prompt in [`master-prompt-professional.md`](./master-prompt-professional.md).
 
 **Created by Sakshi**
 
